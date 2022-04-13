@@ -55,7 +55,7 @@ _**Created by :-**_ <br>[Vashishth Patel](https://github.com/vasu-1)<br>[Smit Pa
 
 <!-- GIF of Video -->
 
-![Demo](.gif)
+![Demo](https://user-images.githubusercontent.com/76911582/162636414-419c4134-5989-43c0-9d3e-c6fce9c4fabc.gif)
 
 <br>
 
